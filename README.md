@@ -1,6 +1,5 @@
-# Comprehensive ChIP-Seq Analysis Pipeline
+# ChIP-Seq Analysis Pipeline
 
-Welcome to the **Comprehensive ChIP-Seq Analysis Pipeline** repository! This project demonstrates a complete workflow for ChIP-Seq data analysis, from raw data processing to peak calling and downstream analysis. It is designed to showcase best practices and can serve as a robust portfolio project to attract attention from leading companies like Illumina, Qiagen, Bayern, and Google.
 
 ## Table of Contents
 
@@ -19,12 +18,11 @@ Welcome to the **Comprehensive ChIP-Seq Analysis Pipeline** repository! This pro
 13. [IDR Analysis](#idr-analysis)
 14. [Usage](#usage)
 15. [Contributing](#contributing)
-16. [License](#license)
-17. [Additional Recommendations](#additional-recommendations)
+
 
 ## Introduction
 
-Chromatin Immunoprecipitation followed by sequencing (ChIP-Seq) is a powerful technique to investigate protein-DNA interactions, histone modifications, and transcription factor binding sites across the genome. This pipeline provides a standardized approach to process ChIP-Seq data, ensuring reproducibility and scalability.
+This pipeline is an adaptation of the workflow I developed during my master's program in Genetics at the University of Campinas. It was specifically designed to analyze potential target genes regulated by the transcription factor COUPTF-II (NR2F2). Chromatin Immunoprecipitation followed by sequencing (ChIP-Seq) is a powerful technique for investigating protein-DNA interactions, histone modifications, and transcription factor binding sites across the genome. This adapted pipeline offers a standardized approach to processing ChIP-Seq data, ensuring both reproducibility and scalability.
 
 ## Prerequisites
 
